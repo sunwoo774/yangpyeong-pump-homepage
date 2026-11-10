@@ -21,4 +21,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline-color:#eab308
 .hub-tab:not(.active):hover{border-color:#0d1b3e!important;color:#0d1b3e!important}
 @media(hover:hover){.hub-button.primary:hover{background:#1a3a6b!important}.hub-mini>summary:hover{background:#eef1f8!important}}
 
-@media(max-width:640px){#cases .hub-section-heading:after{content:'실제 사례 6건 · 옆으로 넘겨보세요'}}
+#cases .yp-case-jump{display:flex;flex-wrap:wrap;gap:10px 18px;margin:4px 0 8px}
+#cases .yp-case-group{font-size:22px;font-weight:800;color:#13264a;margin:36px 0 14px;padding-top:6px;border-top:1px solid #dfe4ee;scroll-margin-top:84px}
+#cases .yp-case-group small{display:block;font-size:14px;font-weight:500;color:#687180;margin-top:4px}
+@media(max-width:640px){#cases .hub-section-heading:after{content:'실제 사례 12건 · 묶음별로 옆으로 넘겨보세요'}#cases .yp-case-group{font-size:19px;margin-top:26px}}
