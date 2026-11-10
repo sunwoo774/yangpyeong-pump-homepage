@@ -20,3 +20,5 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline-color:#eab308
 .hub-tab.active{background:#0d1b3e!important;border-color:#0d1b3e!important}
 .hub-tab:not(.active):hover{border-color:#0d1b3e!important;color:#0d1b3e!important}
 @media(hover:hover){.hub-button.primary:hover{background:#1a3a6b!important}.hub-mini>summary:hover{background:#eef1f8!important}}
+
+@media(max-width:640px){#cases .hub-section-heading:after{content:'실제 사례 6건 · 옆으로 넘겨보세요'}}
