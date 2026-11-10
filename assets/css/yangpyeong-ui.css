@@ -1,0 +1,22 @@
+/* 파워펌프 양평서비스센터(대표): 네이비 + 골드, 원래 브랜드 색상. */
+#hero.hub-hero-simple{background:#f4f6fb!important}
+#hero .text-gradient{background:none!important;color:#0d1b3e!important;-webkit-text-fill-color:#0d1b3e!important}
+.hub-eyebrow,.hub-link{color:#1a3a6b!important}.hub-link:hover{color:#0d1b3e!important}
+.hub-button.primary,.hub-sticky a:not(.kakao){background:#0d1b3e!important;color:#fff!important}
+.hub-section.soft,#cta{background:#f1f3f8!important}.hub-inline-cta{background:#eef1f8!important;border-color:#d6dcea!important}
+.hub-section h2,.hub-cost-intro h2,.hub-inline-cta strong{color:#0d1b3e!important}
+.hub-note{background:#fdf8ec!important;border-left-color:#eab308!important}
+.hub-service-icon,.hub-service-list summary:before,.hub-number{color:#b8860b!important}
+.hub-card,.hub-mini,.hub-fold{border-color:#dde2ec!important}
+.hub-mini[open]>summary{background:#eef1f8!important;color:#0d1b3e!important}
+.hero-media{border-color:#dde2ec!important}.hero-media-caption{color:#4b5568!important}
+.hc-field-strip a{color:#1a3a6b!important}#cases .hub-card{border-top-color:#eab308!important}
+.hub-sticky{background:#f8f9fcf7!important;border-color:#dde2ec!important}
+footer{background:#f1f3f8!important}footer a{color:#1a3a6b!important}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline-color:#eab308!important}
+.hub-price-card,.hub-motor-swap,.hub-savings-table{border-color:#0d1b3e!important}
+.hub-price-card .hub-save,.hub-savings-table .hub-save-amt{color:#0d1b3e!important}
+.hub-price-card .hub-save{background:#fdf3d6!important}
+.hub-tab.active{background:#0d1b3e!important;border-color:#0d1b3e!important}
+.hub-tab:not(.active):hover{border-color:#0d1b3e!important;color:#0d1b3e!important}
+@media(hover:hover){.hub-button.primary:hover{background:#1a3a6b!important}.hub-mini>summary:hover{background:#eef1f8!important}}
